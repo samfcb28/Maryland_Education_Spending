@@ -1,5 +1,7 @@
 git clone https://github.com/samfcb28/Maryland_Education_Spending.git
 
+echo "Hello World" > index.html
+
 
 git add --all
 git commit -m "Initial commit"
